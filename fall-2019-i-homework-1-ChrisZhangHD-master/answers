@@ -1,0 +1,9 @@
+java -cp classes edu.nyu.cs9053.Sonja
+java edu.nyu.cs9053.homework1.Carita
+javac -d target Houston.java
+javac Juliette.java
+javac -sourcepath src/main/java src/main/java/edu/nyu/cs9053/homework1/Williemae.java  
+
+
+
+
